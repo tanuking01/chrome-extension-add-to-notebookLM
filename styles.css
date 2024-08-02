@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif; /* フォントを設定 */
+  }
+  
+  h1 {
+    font-size: 16px; /* 見出しのフォントサイズを設定 */
+    margin-bottom: 10px; /* 見出しの下部マージンを設定 */
+  }
+  
+  textarea {
+    width: 100%; /* テキストエリアの幅を100%に設定 */
+    height: 100px; /* テキストエリアの高さを100pxに設定 */
+  }
+  
+  button {
+    padding: 10px 20px; /* ボタンの内側余白を設定 */
+    font-size: 14px; /* ボタンのフォントサイズを設定 */
+    cursor: pointer; /* ボタンにカーソルを表示 */
+  }
